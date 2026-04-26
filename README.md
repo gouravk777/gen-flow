@@ -37,6 +37,7 @@ It detects user intent and sentiment to help businesses make faster, data-driven
 
 ## 📄 Documentation
 - [Project Charter](docs/project-charter.md)
+- [System Design](docs/system-design.md)
 
 ---
 
